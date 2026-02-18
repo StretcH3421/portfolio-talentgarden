@@ -118,17 +118,20 @@ function App() {
           <div className="2xl:w-585 2xl:ml-auto mt-15 sm:mt-35 2xl:mt-30 relative 2xl:shrink-0 flex flex-col lg:flex-row sm:gap-5 2xl:gap-0 xl:gap-30 gap-10 2xl:mr-60 xl:mr-20 leading-tight ">
             <div className=" text-[#555555] flex-1 xl:flex-1/6 2xl:flex-1/5 [@media(min-width:1745px)]:flex-1 mt-7 2xl:px-20 [@media(min-width:1745px)]:px-10">
               <p className=" text-[1.2rem] text-left sm:text-right lg:text-left sm:text-[1.8rem] lg:text-[1.5rem] xl:text-[1.6rem] opacity-80 px-20 xl:pl-60 2xl:pl-70 2xl:pr-55 sm:pl-45 sm:pr-30 lg:mb-10 lg:pr-20 2xl:mb-26 leading-7  [@media(min-width:1745px)]:pl-23 [@media(min-width:1745px)]:pr-40">
-                Bratislava based. Creating small projects such as{" "}
-                <span className="text-[#BFA181]">webs</span> and simple book
-                libraries and calculators. Eager to learn
+                I’m applying to{" "}
+                <span className="text-[#BFA181]">Talent Garden</span> because I
+                want to grow through real experience. I believe gaining hands-on
+                experience early in your career makes a huge difference.
               </p>
-              <p className="hidden lg:block 2xl:text-[1.6rem] lg:text-[1.4rem] xl:text-[1.6rem] opacity-60 leading-7 text-right lg:pl-40 xl:mt-40 2xl:mt-0 xl:pl-100 2xl:pl-100 mb-26 [@media(min-width:1745px)]:pl-80 [@media(min-width:1745px)]:pr-0 [@media(min-width:1745px)]:mt-35">
-                Bratislava based. Creating small projects such as webs and
-                simple book libraries and calculators. Eager to learn
+              <p className="hidden lg:block 2xl:text-[1.6rem] lg:text-[1.4rem] xl:text-[1.6rem] opacity-70 leading-7 text-right lg:pl-40 xl:mt-40 2xl:mt-0 xl:pl-100 2xl:pl-100 mb-26 [@media(min-width:1745px)]:pl-80 [@media(min-width:1745px)]:pr-0 [@media(min-width:1745px)]:mt-35">
+                I believe my superpower is communication. I’m comfortable asking
+                questions and working with others. I believe good communication
+                makes both code and teamwork better.
               </p>
-              <p className="hidden lg:block 2xl:text-[1.6rem] lg:text-[1.4rem] xl:text-[1.6rem] opacity-60 leading-7 text-left lg:pl-40 xl:pl-50 xl:pr-30 2xl:pr-55 xl:mb-0 mb-26 [@media(min-width:1745px)]:pl-0 [@media(min-width:1745px)]:pr-40 [@media(min-width:1745px)]:mt-30">
-                Bratislava based. Creating small projects such as webs and
-                simple book libraries and calculators. Eager to learn
+              <p className="hidden lg:block 2xl:text-[1.6rem] lg:text-[1.4rem] xl:text-[1.6rem] opacity-70 leading-7 text-left lg:pl-40 xl:pl-50 xl:pr-30 2xl:pr-55 xl:mb-0 mb-26 [@media(min-width:1745px)]:pl-0 [@media(min-width:1745px)]:pr-40 [@media(min-width:1745px)]:mt-30">
+                Outside of school, I like building websites like this one and
+                bringing ideas to life. I also enjoy hanging out with friends
+                and going hiking.
               </p>
               <p className="hidden lg:block xl:text-[2rem] lg:text-[1.6rem] opacity-70 leading-8 text-right xl:pl-70 xl:mt-45 2xl:mt-30 lg:pl-40 2xl:pl-100 [@media(min-width:1745px)]:pl-50">
                 Bratislava based. Creating small projects such as webs and
